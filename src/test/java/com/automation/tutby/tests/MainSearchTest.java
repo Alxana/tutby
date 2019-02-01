@@ -25,8 +25,6 @@ public class MainSearchTest extends TestBase{
     @BeforeMethod
     public void prepareForTest(){
         homepage = new Homepage(driver);
-        financePage = new FinancePage(driver);
-        searchResultsPage = new SearchResultsPage(driver);
     }
 
     @Feature("Search")
@@ -47,6 +45,7 @@ public class MainSearchTest extends TestBase{
     @Test(description = "Test main Search from Resource page - finance.tut.by")
     public void testSearchResourcePage(){
         homepage.openLinkFromTopMenu(RESOURCE_NAME_FINANCE);
+        financePage = new FinancePage(driver);
         financePage.chooseSearchType(SEARCH_TYPE_INTERNET);
 
 
@@ -63,11 +62,10 @@ public class MainSearchTest extends TestBase{
     @Test(description = "Test main Search from Resource page - finance.tut.by - no results")
     public void testSearchResourcePageNoResult(){
         homepage.openLinkFromTopMenu(RESOURCE_NAME_FINANCE);
+        financePage = new FinancePage(driver);
         searchResultsPage = financePage.makeSearchFor(invalidKey);
         assertTrue(searchResultsPage.isSearchEmpty(), "Search results are not empty for keyword: " + invalidKey);
     }
-
-
 
     @Override
     public void openTargetPage() {

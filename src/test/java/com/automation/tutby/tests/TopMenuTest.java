@@ -22,7 +22,6 @@ public class TopMenuTest extends TestBase{
     @BeforeMethod
     public void prepareTest(){
         homepage = new Homepage(driver);
-        financePage = new FinancePage(driver);
         softAssert = new SoftAssert();
     }
 
@@ -41,11 +40,14 @@ public class TopMenuTest extends TestBase{
     }
 
     @Feature("Top Menu")
+    @Feature("Finance")
     @Test(description = "Navigating to a resource from top menu main block of links")
     public void openTopMenuLinkTest(){
         homepage.openLinkFromTopMenu(RESOURCE_NAME_FINANCE);
-        assertTrue(financePage.getResourceName().equalsIgnoreCase(RESOURCE_NAME_FINANCE),
-                "Invalid page open: " + financePage.getResourceName() + ", instead of: " + RESOURCE_NAME_FINANCE);
+        financePage = new FinancePage(driver);
+        String resType = financePage.getResourceName();
+        assertTrue(resType.equalsIgnoreCase(RESOURCE_NAME_FINANCE),
+                "Invalid page open: " + resType + ", instead of: " + RESOURCE_NAME_FINANCE);
     }
 
     @Feature("Top Menu")

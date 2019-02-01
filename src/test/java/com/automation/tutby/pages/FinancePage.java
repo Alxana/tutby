@@ -7,11 +7,11 @@ import org.openqa.selenium.WebDriver;
 
 public class FinancePage extends ResourcePage {
 
-    private ResourcePageSearch search = new ResourcePageSearch(driver);
-
     public FinancePage(WebDriver driver) {
         super(driver);
     }
+
+    private ResourcePageSearch search = new ResourcePageSearch(driver);
 
     @Step("Starting search via main search on Finance page")
     public SearchResultsPage makeSearchFor(String keywords){

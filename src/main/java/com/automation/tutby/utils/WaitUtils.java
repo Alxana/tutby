@@ -8,6 +8,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.time.Duration;
+import java.util.concurrent.TimeUnit;
 
 import static org.testng.Assert.fail;
 
@@ -37,7 +38,7 @@ public class WaitUtils {
         };
         try {
             wait = new WebDriverWait(driver, WAIT_TIME_OUT);
-            wait.pollingEvery(Duration.ofMillis(POLING_TIME));
+            wait.pollingEvery(POLING_TIME, TimeUnit.MILLISECONDS);
             wait.until(condition);
         } catch (Throwable e) {
             logger.error("Page with " + pageClass + " did not load within " + WAIT_TIME_OUT + " sec");

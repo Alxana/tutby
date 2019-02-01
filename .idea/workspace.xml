@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f8491f0-d20b-46bd-83ab-ec315bba54e4" name="Default Changelist" comment="" />
+    <list default="true" id="5f8491f0-d20b-46bd-83ab-ec315bba54e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/tutby/utils/WaitUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/tutby/utils/WaitUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/FinancePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/FinancePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/MainSearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/MainSearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/TopMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/TopMenuTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/automation/tutby/utils/WaitUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/automation/tutby/utils/WaitUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/logs/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/logs/test.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/tutby/pages/FinancePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tutby/pages/FinancePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/tutby/tests/MainSearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tutby/tests/MainSearchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/tutby/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tutby/tests/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/tutby/tests/TopMenuTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tutby/tests/TopMenuTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,11 +25,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="246" column="37" selection-start-line="246" selection-start-column="37" selection-end-line="246" selection-end-column="37" />
+            <state relative-caret-position="213">
+              <caret line="40" column="37" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/automation/tutby/utils/WaitUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -24,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            <state relative-caret-position="-578">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,52 +59,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/TopMenuTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/MainSearchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+            <state relative-caret-position="885">
+              <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2959#2960#0" expanded="true" />
-                <element signature="e#2994#2995#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/abstractPages/ResourcePage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/FinancePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            <state relative-caret-position="18">
+              <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#668#669#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/listeners/AllureListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/abstractPages/Page.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,6 +105,9 @@
       <find>ma</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -114,7 +118,6 @@
         <option value="$PROJECT_DIR$/src/test/resources/chrome.capabilities" />
         <option value="$PROJECT_DIR$/src/test/resources/firefox.capabilities" />
         <option value="$PROJECT_DIR$/src/test/resources/ie.capabilities" />
-        <option value="$PROJECT_DIR$/src/main/java/com/automation/tutby/utils/WaitUtils.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/Module.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/MainMenu.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/MainMenuTest.java" />
@@ -136,21 +139,22 @@
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/components/HomepageSearch.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/abstractPages/ResourcePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/components/ResourcePageSearch.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/MainSearchTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/SearchResultsPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/abstractPages/PageWithTopMenu.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/data/DataConstants.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/TopMenuTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/components/TopMenu.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/Homepage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/KupiTutHomePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/FinancePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/KupiTutProductPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/listeners/AllureListener.java" />
         <option value="$PROJECT_DIR$/src/test/resources/smoke.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/abstractPages/Page.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/TopMenuTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/MainSearchTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/FinancePage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automation/tutby/utils/WaitUtils.java" />
       </list>
     </option>
   </component>
@@ -190,6 +194,7 @@
     <option name="width" value="1939" />
     <option name="height" value="1099" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -359,7 +364,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549005012738" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549012709814" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -386,6 +391,31 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.C:/Users/avoranava/Documents/Work_Exadel/Courses/Java study/Exadel/tutby/src/test/resources/smoke.xml">
+    <configuration name="AllureGenerate" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="io.qameta.allure:allure-maven:serve" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <configuration name="C:/Users/avoranava/Documents/Work_Exadel/Courses/Java study/Exadel/tutby/src/test/resources/smoke.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutby" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/smoke.xml" />
@@ -396,7 +426,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainSearchTest.testSearchHomepage" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MainSearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tutby" />
       <extension name="coverage">
         <pattern>
@@ -406,8 +436,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.automation.tutby.tests" />
       <option name="MAIN_CLASS_NAME" value="com.automation.tutby.tests.MainSearchTest" />
-      <option name="METHOD_NAME" value="testSearchHomepage" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -424,24 +452,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.automation.tutby.tests" />
       <option name="MAIN_CLASS_NAME" value="com.automation.tutby.tests.TopMenuTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TopMenuTest.openAllResourcesTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="tutby" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.automation.tutby.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.automation.tutby.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.tutby.tests.TopMenuTest" />
-      <option name="METHOD_NAME" value="openAllResourcesTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -466,13 +476,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TopMenuTest.openTopMenuLinkTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tutby" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tutby.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tutby.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tutby.tests.TopMenuTest" />
+      <option name="METHOD_NAME" value="openTopMenuLinkTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.AllureGenerate" />
+      <item itemvalue="TestNG.C:/Users/avoranava/Documents/Work_Exadel/Courses/Java study/Exadel/tutby/src/test/resources/smoke.xml" />
+      <item itemvalue="TestNG.TopMenuTest" />
+      <item itemvalue="TestNG.TopMenuTest.openAsideMenuLinkTest" />
+      <item itemvalue="TestNG.TopMenuTest.openTopMenuLinkTest" />
+      <item itemvalue="TestNG.MainSearchTest" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/avoranava/Documents/Work_Exadel/Courses/Java study/Exadel/tutby/src/test/resources/smoke.xml" />
+        <item itemvalue="TestNG.MainSearchTest" />
         <item itemvalue="TestNG.TopMenuTest" />
+        <item itemvalue="TestNG.TopMenuTest.openTopMenuLinkTest" />
         <item itemvalue="TestNG.TopMenuTest.openAsideMenuLinkTest" />
-        <item itemvalue="TestNG.TopMenuTest.openAllResourcesTest" />
-        <item itemvalue="TestNG.MainSearchTest.testSearchHomepage" />
       </list>
     </recent_temporary>
   </component>
@@ -490,40 +526,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TopMenuTest - 2019.01.31 at 22h 48m 14s.xml">
+    <history-entry file="C__Users_avoranava_Documents_Work_Exadel_Courses_Java_study_Exadel_tutby_src_test_resources_smoke_xml - 2019.02.01 at 11h 10m 18s.xml">
+      <configuration name="C:/Users/avoranava/Documents/Work_Exadel/Courses/Java study/Exadel/tutby/src/test/resources/smoke.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TopMenuTest_openTopMenuLinkTest - 2019.02.01 at 11h 14m 22s.xml">
+      <configuration name="TopMenuTest.openTopMenuLinkTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TopMenuTest_openTopMenuLinkTest - 2019.02.01 at 11h 17m 11s.xml">
+      <configuration name="TopMenuTest.openTopMenuLinkTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TopMenuTest - 2019.02.01 at 11h 20m 02s.xml">
       <configuration name="TopMenuTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_avoranava_Documents_Work_Exadel_Courses_Java_study_Exadel_tutby_src_test_resources_smoke_xml - 2019.01.31 at 23h 14m 38s.xml">
-      <configuration name="C:/Users/avoranava/Documents/Work_Exadel/Courses/Java study/Exadel/tutby/src/test/resources/smoke.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TopMenuTest - 2019.02.01 at 01h 39m 41s.xml">
+    <history-entry file="TopMenuTest - 2019.02.01 at 11h 22m 03s.xml">
       <configuration name="TopMenuTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_avoranava_Documents_Work_Exadel_Courses_Java_study_Exadel_tutby_src_test_resources_smoke_xml - 2019.02.01 at 02h 08m 16s.xml">
+    <history-entry file="MainSearchTest - 2019.02.01 at 11h 29m 36s.xml">
+      <configuration name="MainSearchTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainSearchTest - 2019.02.01 at 11h 31m 31s.xml">
+      <configuration name="MainSearchTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_avoranava_Documents_Work_Exadel_Courses_Java_study_Exadel_tutby_src_test_resources_smoke_xml - 2019.02.01 at 11h 33m 48s.xml">
       <configuration name="C:/Users/avoranava/Documents/Work_Exadel/Courses/Java study/Exadel/tutby/src/test/resources/smoke.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_avoranava_Documents_Work_Exadel_Courses_Java_study_Exadel_tutby_src_test_resources_smoke_xml - 2019.02.01 at 02h 15m 00s.xml">
+    <history-entry file="C__Users_avoranava_Documents_Work_Exadel_Courses_Java_study_Exadel_tutby_src_test_resources_smoke_xml - 2019.02.01 at 11h 50m 45s.xml">
       <configuration name="C:/Users/avoranava/Documents/Work_Exadel/Courses/Java study/Exadel/tutby/src/test/resources/smoke.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_avoranava_Documents_Work_Exadel_Courses_Java_study_Exadel_tutby_src_test_resources_smoke_xml - 2019.02.01 at 09h 54m 38s.xml">
-      <configuration name="C:/Users/avoranava/Documents/Work_Exadel/Courses/Java study/Exadel/tutby/src/test/resources/smoke.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_avoranava_Documents_Work_Exadel_Courses_Java_study_Exadel_tutby_src_test_resources_smoke_xml - 2019.02.01 at 09h 58m 05s.xml">
-      <configuration name="C:/Users/avoranava/Documents/Work_Exadel/Courses/Java study/Exadel/tutby/src/test/resources/smoke.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_avoranava_Documents_Work_Exadel_Courses_Java_study_Exadel_tutby_src_test_resources_smoke_xml - 2019.02.01 at 10h 02m 51s.xml">
-      <configuration name="C:/Users/avoranava/Documents/Work_Exadel/Courses/Java study/Exadel/tutby/src/test/resources/smoke.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_avoranava_Documents_Work_Exadel_Courses_Java_study_Exadel_tutby_src_test_resources_smoke_xml - 2019.02.01 at 10h 05m 35s.xml">
-      <configuration name="C:/Users/avoranava/Documents/Work_Exadel/Courses/Java study/Exadel/tutby/src/test/resources/smoke.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_avoranava_Documents_Work_Exadel_Courses_Java_study_Exadel_tutby_src_test_resources_smoke_xml - 2019.02.01 at 10h 10m 57s.xml">
+    <history-entry file="C__Users_avoranava_Documents_Work_Exadel_Courses_Java_study_Exadel_tutby_src_test_resources_smoke_xml - 2019.02.01 at 12h 00m 53s.xml">
       <configuration name="C:/Users/avoranava/Documents/Work_Exadel/Courses/Java study/Exadel/tutby/src/test/resources/smoke.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3342282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -534,15 +569,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.13739377" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.5495751" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.57648724" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4490085" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49932885" weight="0.49008498" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49932885" visible="true" weight="0.49008498" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.7025496" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32904148" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -554,6 +589,16 @@
     </layout>
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/TestBase.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="TestNG">
         <watch expression="link.getText()" />
@@ -643,16 +688,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/Module.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/automation/tutby/utils/WaitUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/Boolean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1734">
@@ -769,16 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/MainSearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/Homepage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -793,16 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="530">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/FinancePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -916,18 +931,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/TopMenuTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2959#2960#0" expanded="true" />
-            <element signature="e#2994#2995#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/abstractPages/ResourcePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -967,20 +970,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/TopMenuTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-560">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2959#2960#0" expanded="true" />
+            <element signature="e#2994#2995#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        <state relative-caret-position="-578">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/pages/FinancePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/tutby/tests/MainSearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="246" column="37" selection-start-line="246" selection-start-column="37" selection-end-line="246" selection-end-column="37" />
+        <state relative-caret-position="213">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automation/tutby/utils/WaitUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
